@@ -1,0 +1,1 @@
+可以使用 tsc --watch index.ts  进行转移为js
